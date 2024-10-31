@@ -44,7 +44,7 @@ $$
 X_l(k,b)=\frac{1}{\sqrt{2^{L-l}}}\sum_n x_n \overline{\Psi \Big( \frac{t}{2^{L-l}}-k \Big)}
 $$
 
-↑あれスケーリング関数は？
+↑スケーリング関数は？
 
 
 ## Wavelet Packet Decomposition（WPD）
