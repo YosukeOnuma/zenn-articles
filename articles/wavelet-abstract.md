@@ -4,7 +4,6 @@ emoji: "🌊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["wavelet","信号処理","math"]
 published: true
-published_at: 2024-10-31 22:00
 ---
 
 
