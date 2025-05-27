@@ -1,5 +1,5 @@
 ---
-title: "RaycastでGoogleサービスを特定アカウントで開く設定"
+title: "Googleサービスを特定アカウントで一発で開く【Raycast】"
 emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Raycast", "Google", "効率化", "macOS"]
