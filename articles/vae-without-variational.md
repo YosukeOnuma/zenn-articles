@@ -55,3 +55,7 @@ VAE（Variational Auto-Encoder）の解説記事を読んでも、式変形ば�
 VAEは実際のところ、変分ベイズ推定による潜在変数$z$の推定から誕生した手法です。ですがここまで見てきたように、結果的に生まれた損失関数やネットワーク構造からでも、十分何が起きているのか理解できたかと思います。
 
 ここまで読んだ上で、これがどのように変分ベイズ推定に基づいているのか興味が湧いた方は、そこを深掘っている記事を読みあさっていただければと思います。
+
+### 特に参考にしたサイト
+- [Variational Autoencoder徹底解説](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24)
+- [VAEって結局何者なの？](https://zenn.dev/asap/articles/6caa9043276424#vae（variational-auto-encoder）)
