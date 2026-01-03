@@ -27,7 +27,7 @@ Gemini CLIの内部ツールの一部は，デフォルトで`.gitignore`対象�
 1. `.gitignore`されているファイルの読み込みを許可
 2. （optional）本当にgeminiに読んで欲しくないファイルは`.geminiignore`で指定
 
-### .gitignoreを無視する
+### 1. gitignoreを無視する
 使うのは以下の設定ファイル．なければ作成する．
 - グローバル設定: `~/.gemini/settings.json`
 - プロジェクト設定: `(project path)/.gemini/settings.json`
@@ -45,7 +45,7 @@ Gemini CLIの内部ツールの一部は，デフォルトで`.gitignore`対象�
 }
 ```
 
-### （optional）読んで欲しくないものは.geminiignoreで除外する
+### 2.（optional）読んで欲しくないものは.geminiignoreで除外する
 使うのは以下の設定ファイル．なければ作成する．
 - グローバル設定: `~/.gemini/.geminiignore`
 - プロジェクト設定: `(project path)/.gemini/.geminiignore`
