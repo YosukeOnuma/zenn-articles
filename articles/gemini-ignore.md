@@ -61,5 +61,5 @@ Gemini CLIの内部ツールの一部は，デフォルトで`.gitignore`対象�
 `.geminiignore`の詳細は[公式ドキュメント](https://geminicli.com/docs/cli/gemini-ignore/)を参照．
 
 
-## 他の方法もあるかも
+# 他の方法もあるかも
 上記以外にも，例えば`gemini`コマンドにオプションをつける方法もあるかもしれませんが，見つけられませんでした．ご存知でしたらぜひコメント等で教えてください
